@@ -1,2 +1,2 @@
 # event-map
-Basic map of canvassing events
+Interactive map of canvassing events
