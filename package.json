@@ -1,0 +1,45 @@
+{
+  "name": "event-map",
+  "version": "1.0.0",
+  "description": "Interactive map of canvassing events",
+  "homepage": "https://github.com/freeman-lab/event-map#readme",
+  "bugs": {
+    "url": "https://github.com/freeman-lab/event-map/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeman-lab/event-map.git"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@radix-ui/react-popover": "^1.1.15",
+    "@radix-ui/react-select": "^2.2.6",
+    "@theme-ui/presets": "^0.17.2",
+    "lucide-react": "^0.552.0",
+    "maplibre-gl": "^5.13.0",
+    "next": "^16.0.7",
+    "react": "^19.2.1",
+    "react-day-picker": "^9.11.2",
+    "react-dom": "^19.2.1",
+    "theme-ui": "^0.17.2"
+  },
+  "license": "MIT",
+  "author": "freeman-lab",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write 'components/**/*.js' 'pages/**/*.js'"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 80,
+    "quoteProps": "as-needed",
+    "jsxSingleQuote": true
+  }
+}

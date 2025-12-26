@@ -1,0 +1,67 @@
+[
+    {
+        "id": 0,
+        "title": "Canvass in Bed-Stuy",
+        "start_time": "2026-01-10T17:00:00Z",
+        "end_time": "2026-01-10T20:00:00Z",
+        "location_name": "Bed-Stuy",
+        "location_address": "Bed-Stuy, Brooklyn, NY, USA",
+        "rsvps": 1,
+        "lon": -73.9417735,
+        "lat": 40.6872176,
+        "url": "",
+        "borough": "Brooklyn"
+    },
+    {
+        "id": 1,
+        "title": "Canvass in Forest Hills",
+        "start_time": "2026-01-10T17:00:00Z",
+        "end_time": "2026-01-10T20:00:00Z",
+        "location_name": "Forest Hills",
+        "location_address": "Forest Hills, Queens, NY, USA",
+        "rsvps": 1,
+        "lon": -73.8448469,
+        "lat": 40.718106,
+        "url": "",
+        "borough": "Queens"
+    },
+    {
+        "id": 2,
+        "title": "Canvass in Port Richmond",
+        "start_time": "2026-01-10T17:00:00Z",
+        "end_time": "2026-01-10T20:00:00Z",
+        "location_name": "Port Richmond",
+        "location_address": "Port Richmond, Staten Island, NY, USA",
+        "rsvps": 0,
+        "lon": -74.13606519999999,
+        "lat": 40.6339267,
+        "url": "",
+        "borough": "Staten Island"
+    },
+    {
+        "id": 3,
+        "title": "Canvass in the South Bronx",
+        "start_time": "2026-01-11T17:00:00Z",
+        "end_time": "2026-01-11T20:00:00Z",
+        "location_name": "South Bronx",
+        "location_address": "South Bronx, The Bronx, NY, USA",
+        "rsvps": 0,
+        "lon": -73.91842609999999,
+        "lat": 40.81767000000001,
+        "url": "",
+        "borough": "The Bronx"
+    },
+    {
+        "id": 4,
+        "title": "Canvass in Harlem",
+        "start_time": "2026-01-15T17:00:00Z",
+        "end_time": "2026-01-15T20:00:00Z",
+        "location_name": "Harlem",
+        "location_address": "Harlem, New York, NY, USA",
+        "rsvps": 0,
+        "lon": -73.9454154,
+        "lat": 40.8078786,
+        "url": "",
+        "borough": "Manhattan"
+    }
+]

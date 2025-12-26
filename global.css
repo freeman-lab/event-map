@@ -1,0 +1,23 @@
+.rdp-root {
+  --rdp-accent-color: #07c;
+  --rdp-accent-background-color: #07c;
+  --rdp-day-height: 32px; /* The height of the day cells. */
+  --rdp-day-width: 32px; /* The width of the day cells. */
+  --rdp-day_button-height: 32px; /* The height of the day cells. */
+  --rdp-day_button-width: 32px; /* The width of the day cells. */
+  --rdp-today-color: #07c;
+}
+
+.rdp-selected {
+  font-weight: inherit;
+  font-size: inherit;
+  color: #07c;
+}
+
+.rdp-day:hover {
+  color: #07c;
+}
+
+.rdp-disabled {
+  pointer-events: none;
+}
