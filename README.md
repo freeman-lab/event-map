@@ -1,6 +1,6 @@
 # event-map
 
->> Interactive map of canvassing events
+> Interactive map of canvassing events
 
 # about
 
