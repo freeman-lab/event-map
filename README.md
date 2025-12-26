@@ -2,6 +2,8 @@
 
 > Interactive map of canvassing events
 
+<img width="3428" height="2324" alt="CleanShot 2025-12-26 at 13 37 36@2x" src="https://github.com/user-attachments/assets/bb2fa93a-f435-44ff-904e-71228d6bbabc" />
+
 # about
 
 This repo contains an unstyled interactive webmap of canvassing events, inspired by the canvassing event map used during the Zohran Mamdani mayoral campaign. It's built using React, Next.js, MapLibre, and Theme-ui. Rather than use it as a package, it's designed for you to fork it and then customize as needed. It's relatively unopinionated, except for the choice of using Theme-UI; if you prefer Tailwind or another styling approach that would require some refactoring.
